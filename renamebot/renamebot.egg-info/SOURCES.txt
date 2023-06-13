@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+renamebot/__init__.py
+renamebot/__main__.py
+renamebot/bot.py
+renamebot.egg-info/PKG-INFO
+renamebot.egg-info/SOURCES.txt
+renamebot.egg-info/dependency_links.txt
+renamebot.egg-info/requires.txt
+renamebot.egg-info/top_level.txt
+renamebot/resources/start.png
